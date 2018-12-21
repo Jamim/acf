@@ -4,6 +4,7 @@ flake8==3.6.0
 mock==2.0.0
 pytest==4.0.2
 pytest-cov==2.6.0
+recommonmark
 requests==2.21
 requests-mock==1.5.2
 six==1.12.0
